@@ -2,7 +2,7 @@ Buenas, esta es una simple calculadora de operaciones matematicas basicas. Es mi
 
 Instalación:
 
-1.Clona este repositorio o descarga el archivo `Calculadora2.ts`:
+1.Clona este repositorio o descarga el archivo `Calculadora2.ts`
   
 
 2. Si todavia no tienes TypeScript instalado globalmente, puedes instalarlo usando NPM:
